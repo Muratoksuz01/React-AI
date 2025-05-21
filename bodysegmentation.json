@@ -1,0 +1,25 @@
+{
+    "mask": {
+        "mask": {
+            "kept": false,
+            "isDisposedInternal": false,
+            "shape": [
+                0,
+                0,
+                4
+            ],
+            "dtype": "float32",
+            "size": 0,
+            "strides": [
+                0,
+                4
+            ],
+            "dataId": {
+                "id": 53475
+            },
+            "id": 48986,
+            "rankType": "3",
+            "scopeId": 104014
+        }
+    }
+}

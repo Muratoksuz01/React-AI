@@ -1,0 +1,39 @@
+{
+    "poseData": [
+        [
+            "Thumb",
+            "Half Curl",
+            "Diagonal Up Left"
+        ],
+        [
+            "Index",
+            "No Curl",
+            "Vertical Up"
+        ],
+        [
+            "Middle",
+            "No Curl",
+            "Vertical Up"
+        ],
+        [
+            "Ring",
+            "Full Curl",
+            "Diagonal Up Left"
+        ],
+        [
+            "Pinky",
+            "Full Curl",
+            "Diagonal Up Left"
+        ]
+    ],
+    "gestures": [
+        {
+            "name": "victory",
+            "score": 10
+        },
+        {
+            "name": "thumbs_up",
+            "score": 4.142857142857142
+        }
+    ]
+}
